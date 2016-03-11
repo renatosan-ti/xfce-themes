@@ -1,0 +1,18 @@
+# Sonar_3 by mio69
+# http://xfce-look.org/content/show.php/Sonar3_5?content=138584
+# Ported to XFCE by p0ng http://www.p0ng.com.br
+
+button_offset=0
+button_spacing=0
+title_full_width=true
+title_horizontal_offset=16
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=true
+title_shadow_inactive=true
+show_app_icon=false
+button_layout=O|HMC
+active_text_color=#545454
+active_text_shadow_color=#fffefb
+inactive_text_color=#9696a1
+inactive_text_shadow_color=#fffffe

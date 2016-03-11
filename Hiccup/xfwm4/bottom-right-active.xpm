@@ -1,0 +1,13 @@
+/* XPM */
+static char * bottom_right_active_xpm[] = {
+"6 6 4 1",
+" 	c None",
+".	c #888A85 s active_color_2",
+"+	c #73766F s active_shadow_2",
+"@	c #2E3436",
+"  .+@@",
+"  .+@@",
+"...+@@",
+"++++@@",
+"@@@@@@",
+"@@@@@@"};

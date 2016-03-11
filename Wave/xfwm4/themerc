@@ -1,0 +1,15 @@
+# Wave made by seahorsepip http://seahorsepip.deviantart.com
+# Ported to XFCE by p0ng http://www.p0ng.com.br
+
+button_offset=8
+button_spacing=7
+title_full_width=true
+title_horizontal_offset=3
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=false
+title_shadow_inactive=false
+show_app_icon=false
+button_layout=|HMC
+active_text_color=#6b6b6b
+inactive_text_color=#b6b6b6

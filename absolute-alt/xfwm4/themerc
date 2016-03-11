@@ -1,0 +1,18 @@
+# absolute-alt made by 2sev 
+# http://gnome-look.org/content/show.php/absolute?content=126326
+# Ported to XFCE by p0ng http://www.p0ng.com.br
+
+button_offset=5
+button_spacing=2
+title_full_width=true
+title_horizontal_offset=16
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=frame
+title_shadow_inactive=true
+show_app_icon=false
+button_layout=O|HMC
+active_text_color=#444444
+active_text_shadow_color=#e7e4dd
+inactive_text_color=#666666
+inactive_text_shadow_color=#e7e4dd

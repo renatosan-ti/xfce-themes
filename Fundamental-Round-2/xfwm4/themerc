@@ -1,0 +1,17 @@
+# Fundamental Round v2 made by ebupof http://ebupof.deviantart.com 
+# Ported to XFCE by p0ng http://www.p0ng.com.br
+
+button_offset=8
+button_spacing=4
+title_full_width=true
+title_horizontal_offset=4
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=true
+title_shadow_inactive=true
+show_app_icon=false
+button_layout=O|HMC
+active_text_color=#787878
+active_text_shadow_color=#ffffff
+inactive_text_color=#969696
+inactive_text_shadow_color=#ffffff

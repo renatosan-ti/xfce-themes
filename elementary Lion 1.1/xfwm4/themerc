@@ -1,0 +1,20 @@
+# elementary Lion 1.1 made by Dolsilwa
+# http://dolsilwa.deviantart.com/art/elementary-Lion-1-1-210121746
+# Ported to XFCE by p0ng http://www.p0ng.com.br
+
+button_offset=8
+maximized_offset=8
+button_spacing=7
+title_full_width=true
+title_horizontal_offset=0
+title_vertical_offset_active=4
+title_vertical_offset_inactive=4
+title_shadow_active=true
+title_shadow_inactive=true
+show_app_icon=false
+#button_layout=O|HMC
+button_layout=CHM|O
+active_text_color=#777274
+active_text_shadow_color=#fefefe
+inactive_text_color=#9c9ea9
+inactive_text_shadow_color=#fefefe

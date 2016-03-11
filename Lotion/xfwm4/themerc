@@ -1,0 +1,15 @@
+# Lotion made by p0ng
+# http://www.p0ng.com.br
+
+button_offset=4
+button_spacing=4
+title_full_width=false
+title_horizontal_offset=0
+title_vertical_offset_active=-1
+title_vertical_offset_inactive=-1
+title_shadow_active=false
+title_shadow_inactive=false
+show_app_icon=false
+button_layout=|HMC
+active_text_color=#e7e7e7
+inactive_text_color=#424242

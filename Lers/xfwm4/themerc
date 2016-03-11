@@ -1,0 +1,22 @@
+# Lers by p0ng (http://www.p0ng.com.br)
+# made to fit with GTK themes
+
+button_offset=8
+button_spacing=8
+maximized_offset=6
+title_horizontal_offset=8
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=true
+title_shadow_inactive=false
+show_app_icon=false
+active_text_color=#4a4a4a
+active_text_shadow_color=#fafafa
+inactive_text_color=#8c8c8c
+
+# Enable 'composite' to see this effect
+shadow_opacity=90
+shadow_delta_height=-10 # bottom
+shadow_delta_width=-10 	# right
+shadow_delta_x=-10 		# left
+shadow_delta_y=-20 		# top

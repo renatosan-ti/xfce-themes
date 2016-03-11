@@ -1,0 +1,15 @@
+# chaos by p0ng
+# A port of blackbox theme made by artwiz
+
+button_offset=2
+button_spacing=2
+title_full_width=false
+title_horizontal_offset=3
+title_vertical_offset_active=-1
+title_vertical_offset_inactive=-1
+title_shadow_active=false
+title_shadow_inactive=false
+show_app_icon=true
+button_layout=O|HMC
+active_text_color=#ffffff
+inactive_text_color=#707880

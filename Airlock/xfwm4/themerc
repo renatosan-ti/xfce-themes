@@ -1,0 +1,22 @@
+# Airlock
+# A port of WindowBlinds theme
+
+active_text_color=#ffffff
+active_text_shadow_color=#336a88
+inactive_text_color=#98c4dd
+inactive_text_shadow_color=#33698d
+button_offset=2
+button_spacing=0
+button_layout=S|HMC
+full_width_title=false
+maximized_offset=2
+shadow_delta_height=-2
+shadow_delta_width=-2
+shadow_delta_x=-2
+shadow_delta_y=-2
+show_app_icon=false
+title_horizontal_offset=0
+title_shadow_active=true
+title_shadow_inactive=true
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1

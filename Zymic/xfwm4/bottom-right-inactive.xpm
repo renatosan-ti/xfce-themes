@@ -1,0 +1,21 @@
+/* XPM */
+static char * bottom_right_active_xpm[] = {
+"6 6 12 1",
+" 	c None",
+".	c #757575",
+"+	c #FFFFFF",
+"@	c #EDEDED",
+"#	c #E8E8E8",
+"$	c #6B6B6B",
+"%	c #EBEBEB",
+"&	c #E9E9E9",
+"*	c #E6E6E6",
+"=	c #E3E3E3",
+"-	c #E4E4E4",
+";	c #939393",
+" .+@#.",
+"..+@#.",
+"+++@#$",
+"%%%&*$",
+"====-.",
+"..$$.;"};

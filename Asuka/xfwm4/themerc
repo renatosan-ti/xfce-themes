@@ -1,0 +1,16 @@
+# Asuka made by Shu-yu 
+# ported to xfce by p0ng (http://www.p0ng.cjb.net)
+
+button_offset=2
+button_spacing=2
+title_full_width=false
+title_horizontal_offset=3
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+title_shadow_active=true
+title_shadow_inactive=false
+show_app_icon=true
+button_layout=O|HMC
+active_text_color=#ffffff
+active_text_shadow_color=#333333
+inactive_text_color=#808080

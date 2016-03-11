@@ -1,0 +1,15 @@
+# Collide alt
+# Based on Winamp Skin. Ported to Xfce by p0ng 
+
+button_offset=2
+button_spacing=4
+title_full_width=true
+title_horizontal_offset=3
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+title_shadow_active=false
+title_shadow_inactive=false
+show_app_icon=true
+button_layout=O|HMC
+active_text_color=#e7e7e7
+inactive_text_color=#a1a1a1
