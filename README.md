@@ -1,0 +1,74 @@
+xfce-themes
+===========
+
+Some xfwm4 themes
+
+- 23ozglass
+- Airlock
+- Ambiance
+- Ashen
+- Ashen II
+- Asuka
+- Axios
+- Chila
+- Coal
+- Cobble
+- Collide
+ - Normal
+ - Alternate version
+- Darksun
+- Decadence
+ - Dark
+ - Light
+- Elfin
+- Elfin2
+- Fundamental
+ - Above
+ - Hybrid
+ - Round-2
+- Glitch
+- Hiccup
+- Innervision
+- Lady
+- Lambda
+- Lers
+- Lotion
+- Luminance
+- Moira
+- Neien
+- Rele
+- Rhapsodized
+ - Normal
+ - Micro
+- Salu
+- Samidarish
+- Simply Basic II
+ - Normal
+ - Borderless
+- Sonar_3
+- Tango
+ - Aluminium Dark
+ - Aluminium Light
+ - Butter
+ - Chameleon
+ - Chocolate
+ - Orange
+ - Plum
+ - Scarlet Red
+ - Sky Blue
+- Wave
+- Zymic
+- absolute
+ - normal
+ - alternate
+ - squared
+ - squared (alternate)
+- beGood
+- chaos
+- eco-dark
+- elementary Lion 1.1
+- maG
+- n1
+- presence
+- preto
+- sefrepo
