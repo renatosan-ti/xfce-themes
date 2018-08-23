@@ -14,18 +14,18 @@ Some xfwm4 themes
 - Coal
 - Cobble
 - Collide
- - Normal
- - Alternate version
+  - Normal
+  - Alternate version
 - Darksun
 - Decadence
- - Dark
- - Light
+  - Dark
+  - Light
 - Elfin
 - Elfin2
 - Fundamental
- - Above
- - Hybrid
- - Round-2
+  - Above
+  - Hybrid
+  - Round-2
 - Glitch
 - Hiccup
 - Innervision
@@ -38,31 +38,31 @@ Some xfwm4 themes
 - Neien
 - Rele
 - Rhapsodized
- - Normal
- - Micro
+  - Normal
+  - Micro
 - Salu
 - Samidarish
 - Simply Basic II
- - Normal
- - Borderless
+  - Normal
+  - Borderless
 - Sonar_3
 - Tango
- - Aluminium Dark
- - Aluminium Light
- - Butter
- - Chameleon
- - Chocolate
- - Orange
- - Plum
- - Scarlet Red
- - Sky Blue
+  - Aluminium Dark
+  - Aluminium Light
+  - Butter
+  - Chameleon
+  - Chocolate
+  - Orange
+  - Plum
+  - Scarlet Red
+  - Sky Blue
 - Wave
 - Zymic
 - absolute
- - normal
- - alternate
- - squared
- - squared (alternate)
+  - normal
+  - alternate
+  - squared
+  - squared (alternate)
 - beGood
 - chaos
 - eco-dark
